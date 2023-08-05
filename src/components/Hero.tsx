@@ -7,7 +7,7 @@ export default function Hero({}: Props) {
   return (
     <main className="max-w-4xl px-5 mx-auto pt-32 sm:pt-32">
       <Link
-        href="https://github.com/korebhaumik/SentiX"
+        href="https://github.com/korebhaumik/CulinaryCraft"
         target="_blank"
         className="flex items-center w-60 justify-between py-3 shadow-md px-5 border-2 bg-white text-black border-zinc-200 rounded-full"
       >
