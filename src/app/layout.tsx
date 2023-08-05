@@ -10,8 +10,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Senti𝕏",
-  description: "SentiX is a sentiment analysis tool for twitter.",
+  title: "CuinaryCraft",
+  description: "A culinary AI that can help you with your cooking.",
 };
 
 export default function RootLayout({
