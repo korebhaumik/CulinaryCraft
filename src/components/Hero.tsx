@@ -31,7 +31,7 @@ export default function Hero({}: Props) {
         Elevate your culinary experience, and design delight in every bite using
         CulinaryCraft 😋
       </h1>
-      <h2 className="text-zinc-400 w-fit text-sm mt-3">
+      <h2 className="text-zinc-400 w-fit text-base mt-3">
         Your creative kitchen companion. Discover, create, and savor exquisite
         dishes with our curated recipes and interactive features. Elevate your
         culinary journey today.
