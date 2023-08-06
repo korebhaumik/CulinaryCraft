@@ -18,7 +18,8 @@
 CulinaryCraft is a sophisticated recipe generation and management web app that leverages llms to curate extensive and diverse culinary creations. With an intuitive user interface, it offers users to generate custom recipes with ingredient substitution suggestions, and nutrition-specific recommendations.
 
 **Link:** [https://culinary-craft.vercel.app/](https://culinary-craft.vercel.app/)
-<img width="1392" alt="live prototype example" src="https://github.com/korebhaumik/CulinaryCraft/assets/106856064/84542401-b8c3-4106-a63b-9d8cac91c005">
+<img width="1392" alt="Screenshot 2023-08-06 at 3 47 28 PM" src="https://github.com/korebhaumik/CulinaryCraft/assets/106856064/d931a256-cc47-4740-ba66-596965c49916">
+
 
 
 ## Features
