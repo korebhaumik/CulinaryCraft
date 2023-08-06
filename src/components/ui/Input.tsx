@@ -68,7 +68,7 @@ export default function Input({}: Props) {
             "bg-white/50": isLoading,
           })}
         >
-          {!isLoading ? "Generate Recipe" : "Generating..."}
+          {!isLoading ? "Generate Recipe" : "Let him cook..."}
         </button>
       </section>
     </main>
