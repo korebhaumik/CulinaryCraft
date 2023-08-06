@@ -7,6 +7,7 @@ export default function CommandCenter({}: Props) {
     <button
       className="bg-zinc-100 p-3 rounded-lg border"
       name="activate-command"
+      id="activate-command"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
