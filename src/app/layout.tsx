@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "CuinaryCraft",
+  title: "CulinaryCraft",
   description: "A culinary AI that can help you with your cooking.",
 };
 
